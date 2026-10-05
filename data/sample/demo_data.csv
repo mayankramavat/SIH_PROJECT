@@ -1,0 +1,8 @@
+state,district,sector,trade,nco_code,demand,supply,gap,gap_percentage,status
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,850,320,530,62.35,SHORTAGE
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,420,390,30,7.14,BALANCED
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.0100,80,240,-160,-200.00,OVERSUPPLY
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,1650,680,970,58.79,SHORTAGE
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,620,470,150,24.19,SHORTAGE
+Gujarat,Ahmedabad,Automotive,CNC Operator,7223.0101,510,370,140,27.45,SHORTAGE
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.0100,150,200,-50,-33.33,OVERSUPPLY

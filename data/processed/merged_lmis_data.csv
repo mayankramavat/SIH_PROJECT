@@ -1,0 +1,41 @@
+state,district,sector,trade,nco_code,demand,supply,demand_index,supply_index,gap,gap_percentage,gap_status,status,hiring_growth,certification_rate,placement_rate,training_utilization
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,850,320,47.91,47.7,530,62.35,SHORTAGE,SHORTAGE,0.0071,84.21,84.0,95.0
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,420,390,44.89,50.97,30,7.14,BALANCED,BALANCED,0.0319,90.7,78.0,95.56
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,310,250,21.78,32.77,60,19.35,SHORTAGE,SHORTAGE,-0.0032,89.29,78.0,93.33
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,260,190,43.17,23.77,70,26.92,SHORTAGE,SHORTAGE,0.04,86.36,76.0,88.0
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,95,210,4.21,9.83,-115,-121.05,OVERSUPPLY,OVERSUPPLY,-0.0206,91.3,57.0,92.0
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,1150,490,79.01,72.91,660,57.39,SHORTAGE,SHORTAGE,0.0436,87.5,87.0,93.33
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,920,410,43.83,60.36,510,55.43,SHORTAGE,SHORTAGE,-0.0054,85.42,85.0,96.0
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,580,360,26.46,50.64,220,37.93,SHORTAGE,SHORTAGE,-0.0136,87.8,81.0,91.11
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,340,290,39.31,34.87,50,14.71,BALANCED,BALANCED,0.0272,87.88,74.0,94.29
+Maharashtra,Nagpur,Automotive,Welder,7212.01,280,230,12.93,25.88,50,17.86,SHORTAGE,SHORTAGE,-0.0175,85.19,72.0,90.0
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,80,240,8.12,11.82,-160,-200.0,OVERSUPPLY,OVERSUPPLY,-0.0123,85.71,54.0,93.33
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,210,150,41.05,15.83,60,28.57,SHORTAGE,SHORTAGE,0.0396,83.33,73.0,90.0
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,340,280,16.83,36.43,60,17.65,SHORTAGE,SHORTAGE,-0.0145,87.5,77.0,91.43
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,290,250,17.25,31.1,40,13.79,BALANCED,BALANCED,-0.0102,89.29,76.0,93.33
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,390,260,46.61,34.54,130,33.33,SHORTAGE,SHORTAGE,0.0372,89.66,79.0,96.67
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,180,170,30.79,16.05,10,5.56,BALANCED,BALANCED,0.0227,89.47,71.0,95.0
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,1650,680,92.08,100.0,970,58.79,SHORTAGE,SHORTAGE,0.0325,90.67,90.0,93.75
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,1280,540,71.62,80.96,740,57.81,SHORTAGE,SHORTAGE,0.0207,87.1,89.0,95.38
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,450,330,46.15,44.48,120,26.67,SHORTAGE,SHORTAGE,0.0321,89.19,79.0,92.5
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,110,170,6.24,8.55,-60,-54.55,OVERSUPPLY,OVERSUPPLY,-0.0179,89.47,62.0,95.0
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,220,190,27.52,23.77,30,13.64,BALANCED,BALANCED,0.0138,86.36,76.0,88.0
+Karnataka,Dharwad,Automotive,Welder,7212.01,190,170,21.79,19.22,20,10.53,BALANCED,BALANCED,0.0053,85.0,74.0,90.91
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,620,470,52.35,66.02,150,24.19,SHORTAGE,SHORTAGE,0.0316,90.38,83.0,94.55
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,980,510,50.7,75.63,470,47.96,SHORTAGE,SHORTAGE,0.0031,89.47,88.0,95.0
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,360,260,42.39,36.88,100,27.78,SHORTAGE,SHORTAGE,0.0315,89.66,81.0,90.62
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,480,380,35.64,53.36,100,20.83,SHORTAGE,SHORTAGE,0.0105,90.48,82.0,93.33
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,240,200,25.37,26.38,40,16.67,SHORTAGE,SHORTAGE,0.0084,86.96,78.0,92.0
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,220,210,12.8,25.99,10,4.55,BALANCED,BALANCED,-0.0135,87.5,76.0,92.31
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,510,370,46.33,51.59,140,27.45,SHORTAGE,SHORTAGE,0.0282,88.1,81.0,93.33
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,720,350,38.37,54.7,370,51.39,SHORTAGE,SHORTAGE,-0.0014,85.37,87.0,91.11
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,190,170,16.13,20.89,20,10.53,BALANCED,BALANCED,-0.0052,85.0,76.0,90.91
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,330,240,30.9,32.66,90,27.27,SHORTAGE,SHORTAGE,0.0123,85.71,79.0,93.33
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,270,230,30.07,25.21,40,14.81,BALANCED,BALANCED,0.015,88.46,72.0,92.86
+Gujarat,Vadodara,Automotive,Welder,7212.01,310,220,28.79,26.77,90,29.03,SHORTAGE,SHORTAGE,0.0098,84.62,75.0,92.86
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,420,280,18.86,34.76,140,33.33,SHORTAGE,SHORTAGE,-0.0164,84.85,75.0,94.29
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,150,200,28.41,9.72,-50,-33.33,OVERSUPPLY,OVERSUPPLY,0.0204,86.96,58.0,92.0
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,1100,490,73.93,73.74,610,55.45,SHORTAGE,SHORTAGE,0.0377,87.5,88.0,93.33
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,380,280,16.42,36.43,100,26.32,SHORTAGE,SHORTAGE,-0.0181,87.5,77.0,91.43
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,260,220,30.01,22.6,40,15.38,SHORTAGE,SHORTAGE,0.0156,88.0,70.0,89.29
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,240,200,9.84,22.22,40,16.67,SHORTAGE,SHORTAGE,-0.0204,86.96,73.0,92.0

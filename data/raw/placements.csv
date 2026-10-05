@@ -1,0 +1,41 @@
+state,district,sector,trade,nco_code,candidates_trained,candidates_placed,placement_rate
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,320,270,0.84
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,390,305,0.78
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.0100,250,195,0.78
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.0100,190,145,0.76
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.0100,210,120,0.57
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,490,425,0.87
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,410,350,0.85
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.0100,360,290,0.81
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.0100,290,215,0.74
+Maharashtra,Nagpur,Automotive,Welder,7212.0100,230,165,0.72
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.0100,240,130,0.54
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.0100,150,110,0.73
+Maharashtra,Nashik,Automotive,CNC Operator,7223.0101,280,215,0.77
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,250,190,0.76
+Maharashtra,Aurangabad,Automotive,CNC Operator,7223.0101,260,205,0.79
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.0100,170,120,0.71
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,680,610,0.90
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,540,480,0.89
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.0100,330,260,0.79
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.0100,170,105,0.62
+Karnataka,Mysuru,Automotive,CNC Operator,7223.0101,190,145,0.76
+Karnataka,Dharwad,Automotive,Welder,7212.0100,170,125,0.74
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,470,390,0.83
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,510,450,0.88
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.0100,260,210,0.81
+Tamil Nadu,Coimbatore,Automotive,CNC Operator,7223.0101,380,310,0.82
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.0100,200,155,0.78
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.0100,210,160,0.76
+Gujarat,Ahmedabad,Automotive,CNC Operator,7223.0101,370,300,0.81
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,350,305,0.87
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.0100,170,130,0.76
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.0100,240,190,0.79
+Gujarat,Surat,Construction,Assistant Electrician,7411.0100,230,165,0.72
+Gujarat,Vadodara,Automotive,Welder,7212.0100,220,165,0.75
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.0100,280,210,0.75
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.0100,200,115,0.58
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,490,430,0.88
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.0100,280,215,0.77
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.0100,220,155,0.70
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.0100,200,145,0.73

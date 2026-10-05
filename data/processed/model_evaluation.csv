@@ -1,0 +1,3 @@
+model,MAE,RMSE,R2,test_samples,test_period
+Baseline (Previous Month),8.16,13.1,0.9986,80,2024-02 to 2024-03
+Random Forest Regressor (ML),9.77,18.82,0.9971,80,2024-02 to 2024-03

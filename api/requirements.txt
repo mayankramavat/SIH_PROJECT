@@ -1,0 +1,5 @@
+# Vercel Serverless Function Dependencies (SIH_26246)
+fastapi>=0.110.0
+pydantic>=2.6.0
+pandas>=2.0.0
+numpy>=1.24.0

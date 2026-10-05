@@ -1,0 +1,23 @@
+{
+  "name": "national-lmis-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "National Labour Market Information System (LMIS) - SIH 26246",
+  "scripts": {
+    "install:frontend": "npm install --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "dev": "npm run dev --prefix frontend",
+    "start": "uvicorn backend.app.main:app --host 0.0.0.0 --port 8000"
+  },
+  "keywords": [
+    "lmis",
+    "labour-market",
+    "skill-gap",
+    "forecasting",
+    "fastapi",
+    "react",
+    "vite"
+  ],
+  "author": "SIH 26246 Team",
+  "license": "MIT"
+}

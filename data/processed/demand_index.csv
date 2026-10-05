@@ -1,0 +1,481 @@
+state,district,sector,trade,nco_code,month,job_postings,hiring_growth,demand_index
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-04,734,0.015,47.75
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-05,724,-0.0136,31.95
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-06,744,0.0276,54.92
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-07,760,0.0215,52.24
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-08,788,0.0368,61.56
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-09,779,-0.0114,35.23
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-10,775,-0.0051,38.47
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-11,771,-0.0052,38.27
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2023-12,787,0.0208,52.89
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2024-01,810,0.0292,58.3
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2024-02,844,0.042,66.49
+Maharashtra,Pune,IT-ITeS,Junior Software Developer,2512.0101,2024-03,850,0.0071,47.91
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-04,419,0.005,30.36
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-05,412,-0.0167,18.39
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-06,417,0.0121,34.11
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-07,414,-0.0072,23.59
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-08,414,0.0,27.47
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-09,417,0.0072,31.47
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-10,414,-0.0072,23.59
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-11,408,-0.0145,19.42
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2023-12,402,-0.0147,19.09
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2024-01,397,-0.0124,20.14
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2024-02,407,0.0252,40.79
+Maharashtra,Pune,Automotive,Automotive Service Technician,7231.0101,2024-03,420,0.0319,44.89
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-04,302,0.01,28.59
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-05,297,-0.0166,14.06
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-06,294,-0.0101,17.45
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-07,299,0.017,32.25
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-08,294,-0.0167,13.9
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-09,299,0.017,32.25
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-10,302,0.01,28.59
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-11,300,-0.0066,19.57
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2023-12,308,0.0267,37.82
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2024-01,310,0.0065,27.01
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2024-02,311,0.0032,25.27
+Maharashtra,Pune,Healthcare,General Duty Assistant,5321.01,2024-03,310,-0.0032,21.78
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-04,224,0.0125,26.97
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-05,232,0.0357,39.78
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-06,228,-0.0172,11.11
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-07,231,0.0132,27.61
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-08,229,-0.0087,15.73
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-09,231,0.0087,25.19
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-10,236,0.0216,32.33
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-11,233,-0.0127,13.73
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-12,233,0.0,20.57
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-01,240,0.03,37.01
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-02,250,0.0417,43.7
+Maharashtra,Pune,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-03,260,0.04,43.17
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-04,92,-0.0033,13.42
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-05,92,0.0,15.2
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-06,94,0.0217,26.98
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-07,96,0.0213,26.84
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-08,97,0.0104,21.0
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-09,99,0.0206,26.57
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-10,97,-0.0202,4.5
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-11,97,0.0,15.39
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2023-12,97,0.0,15.39
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2024-01,96,-0.0103,9.8
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2024-02,97,0.0104,21.0
+Maharashtra,Pune,IT-ITeS,Data Entry Operator,4132.01,2024-03,95,-0.0206,4.21
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-04,1016,0.0183,60.27
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-05,1037,0.0207,62.36
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-06,1042,0.0048,53.98
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-07,1052,0.0096,56.95
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-08,1092,0.038,73.78
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-09,1097,0.0046,55.97
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-10,1110,0.0119,60.4
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-11,1119,0.0081,58.69
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2023-12,1109,-0.0089,49.15
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2024-01,1109,0.0,53.95
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2024-02,1102,-0.0063,50.28
+Maharashtra,Mumbai Suburban,IT-ITeS,Junior Software Developer,2512.0101,2024-03,1150,0.0436,79.01
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-04,753,0.0158,48.9
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-05,777,0.0319,58.49
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-06,800,0.0296,58.13
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-07,823,0.0288,58.58
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-08,852,0.0352,63.13
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-09,840,-0.0141,36.1
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-10,838,-0.0024,42.33
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-11,865,0.0322,62.01
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2023-12,904,0.0451,70.45
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2024-01,895,-0.01,40.4
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2024-02,925,0.0335,65.0
+Maharashtra,Mumbai Suburban,IT-ITeS,Web Developer,2513.0101,2024-03,920,-0.0054,43.83
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-04,544,0.0117,38.73
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-05,555,0.0202,43.73
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-06,569,0.0252,46.96
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-07,570,0.0018,34.38
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-08,570,0.0,33.41
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-09,562,-0.014,25.56
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-10,563,0.0018,34.12
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-11,574,0.0195,44.08
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2023-12,593,0.0331,52.13
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2024-01,586,-0.0118,27.66
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2024-02,588,0.0034,35.93
+Maharashtra,Mumbai Suburban,Healthcare,General Duty Assistant,5321.01,2024-03,580,-0.0136,26.46
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-04,320,0.0042,26.15
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-05,312,-0.025,10.11
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-06,312,0.0,23.58
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-07,314,0.0064,27.11
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-08,315,0.0032,25.42
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-09,321,0.019,34.17
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-10,324,0.0093,29.05
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-11,330,0.0185,34.24
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2023-12,336,0.0182,34.31
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2024-01,330,-0.0179,14.62
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2024-02,331,0.003,25.92
+Maharashtra,Mumbai Suburban,Construction,Assistant Electrician,7411.01,2024-03,340,0.0272,39.31
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-04,281,0.0067,26.01
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-05,276,-0.0178,12.62
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-06,273,-0.0109,16.22
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-07,279,0.022,34.19
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-08,279,0.0,22.33
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-09,277,-0.0072,18.37
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-10,286,0.0325,40.11
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-11,288,0.007,26.44
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2023-12,287,-0.0035,20.74
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2024-01,291,0.0139,30.28
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2024-02,285,-0.0206,11.45
+Maharashtra,Nagpur,Automotive,Welder,7212.01,2024-03,280,-0.0175,12.93
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-04,75,-0.0017,13.64
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-05,76,0.0133,21.76
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-06,76,0.0,14.59
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-07,78,0.0263,28.85
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-08,76,-0.0256,0.79
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-09,77,0.0132,21.75
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-10,79,0.026,28.72
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-11,80,0.0127,21.59
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2023-12,81,0.0125,21.52
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2024-01,83,0.0247,28.18
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2024-02,81,-0.0241,1.79
+Maharashtra,Nagpur,IT-ITeS,Data Entry Operator,4132.01,2024-03,80,-0.0123,8.12
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-04,189,0.0133,26.07
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-05,188,-0.0053,16.0
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-06,190,0.0106,24.65
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-07,193,0.0158,27.57
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-08,190,-0.0155,10.58
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-09,197,0.0368,39.04
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-10,203,0.0305,35.87
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-11,205,0.0099,24.84
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-12,204,-0.0049,16.83
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-01,202,-0.0098,14.11
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-02,202,0.0,19.39
+Maharashtra,Nagpur,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-03,210,0.0396,41.05
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-04,305,0.0075,27.36
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-05,307,0.0066,26.95
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-06,305,-0.0065,19.81
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-07,316,0.0361,43.2
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-08,327,0.0348,42.92
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-09,327,0.0,24.16
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-10,333,0.0183,34.25
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-11,336,0.009,29.35
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2023-12,335,-0.003,22.84
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2024-01,346,0.0328,42.56
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2024-02,345,-0.0029,23.28
+Maharashtra,Nashik,Automotive,Cnc Operator,7223.0101,2024-03,340,-0.0145,16.83
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-04,310,0.0033,25.29
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-05,311,0.0032,25.27
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-06,305,-0.0193,12.91
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-07,301,-0.0131,16.1
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-08,309,0.0266,37.81
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-09,306,-0.0097,18.13
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-10,299,-0.0229,10.74
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-11,300,0.0033,24.91
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2023-12,303,0.01,28.63
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2024-01,296,-0.0231,10.52
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2024-02,293,-0.0101,17.42
+Maharashtra,Nashik,Automotive,Automotive Service Technician,7231.0101,2024-03,290,-0.0102,17.25
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-04,345,0.0092,29.8
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-05,340,-0.0145,16.83
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-06,344,0.0118,31.16
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-07,350,0.0174,34.41
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-08,356,0.0171,34.48
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-09,356,0.0,25.26
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-10,364,0.0225,37.69
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-11,362,-0.0055,22.52
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2023-12,371,0.0249,39.25
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2024-01,378,0.0189,36.29
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2024-02,376,-0.0053,23.16
+Maharashtra,Aurangabad,Automotive,Cnc Operator,7223.0101,2024-03,390,0.0372,46.61
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-04,190,0.0025,20.28
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-05,187,-0.0158,10.3
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-06,189,0.0107,24.67
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-07,186,-0.0159,10.21
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-08,187,0.0054,21.73
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-09,182,-0.0267,4.24
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-10,184,0.011,24.64
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-11,185,0.0054,21.66
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2023-12,180,-0.027,4.0
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2024-01,177,-0.0167,9.44
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2024-02,176,-0.0056,15.38
+Maharashtra,Aurangabad,Construction,Assistant Electrician,7411.01,2024-03,180,0.0227,30.79
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-04,1268,0.0208,71.22
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-05,1319,0.0402,83.62
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-06,1359,0.0303,79.8
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-07,1368,0.0066,67.37
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-08,1427,0.0431,89.29
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-09,1493,0.0463,93.53
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-10,1489,-0.0027,66.97
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-11,1506,0.0114,75.22
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2023-12,1505,-0.0007,68.65
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2024-01,1576,0.0472,97.18
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2024-02,1598,0.014,80.12
+Karnataka,Bengaluru Urban,IT-ITeS,Junior Software Developer,2512.0101,2024-03,1650,0.0325,92.08
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-04,1020,0.0175,59.99
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-05,1062,0.0412,74.37
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-06,1095,0.0311,70.18
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-07,1104,0.0082,58.18
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-08,1113,0.0082,58.52
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-09,1141,0.0252,68.75
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-10,1188,0.0412,79.17
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-11,1237,0.0412,81.03
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2023-12,1228,-0.0073,54.54
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2024-01,1230,0.0016,59.42
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2024-02,1254,0.0195,69.98
+Karnataka,Bengaluru Urban,IT-ITeS,Web Developer,2513.0101,2024-03,1280,0.0207,71.62
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-04,428,0.0083,32.48
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-05,419,-0.021,16.34
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-06,427,0.0191,38.26
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-07,420,-0.0164,18.86
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-08,411,-0.0214,15.82
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-09,417,0.0146,35.45
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-10,430,0.0312,44.9
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-11,425,-0.0116,21.64
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2023-12,418,-0.0165,18.73
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2024-01,425,0.0167,36.89
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2024-02,436,0.0259,42.27
+Karnataka,Bengaluru Urban,Electronics & Hardware,Field Technician Computing,7422.01,2024-03,450,0.0321,46.15
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-04,109,0.0008,16.28
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-05,111,0.0183,25.79
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-06,112,0.009,20.82
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-07,114,0.0179,25.69
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-08,113,-0.0088,11.26
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-09,111,-0.0177,6.38
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-10,112,0.009,20.82
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-11,110,-0.0179,6.24
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2023-12,111,0.0091,20.83
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2024-01,112,0.009,20.82
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2024-02,112,0.0,15.96
+Karnataka,Mysuru,IT-ITeS,Data Entry Operator,4132.01,2024-03,110,-0.0179,6.24
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-04,202,0.0058,22.52
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-05,207,0.0248,32.95
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-06,210,0.0145,27.51
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-07,216,0.0286,35.34
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-08,216,0.0,19.93
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-09,223,0.0324,37.66
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-10,221,-0.009,15.27
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-11,219,-0.009,15.19
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2023-12,219,0.0,20.04
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2024-01,215,-0.0183,10.02
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2024-02,217,0.0093,24.98
+Karnataka,Mysuru,Automotive,Cnc Operator,7223.0101,2024-03,220,0.0138,27.52
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-04,182,0.0042,20.9
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-05,188,0.033,36.65
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-06,194,0.0319,36.29
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-07,191,-0.0155,10.62
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-08,193,0.0105,24.71
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-09,188,-0.0259,4.9
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-10,186,-0.0106,13.07
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-11,189,0.0161,27.58
+Karnataka,Dharwad,Automotive,Welder,7212.01,2023-12,186,-0.0159,10.21
+Karnataka,Dharwad,Automotive,Welder,7212.01,2024-01,187,0.0054,21.73
+Karnataka,Dharwad,Automotive,Welder,7212.01,2024-02,189,0.0107,24.67
+Karnataka,Dharwad,Automotive,Welder,7212.01,2024-03,190,0.0053,21.79
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-04,530,0.0067,35.5
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-05,545,0.0283,47.72
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-06,545,0.0,32.46
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-07,542,-0.0055,29.38
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-08,557,0.0277,47.85
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-09,576,0.0341,52.02
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-10,596,0.0347,53.11
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-11,597,0.0017,35.36
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2023-12,616,0.0318,52.31
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2024-01,602,-0.0227,22.39
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2024-02,601,-0.0017,33.68
+Tamil Nadu,Chennai,Automotive,Automotive Service Technician,7231.0101,2024-03,620,0.0316,52.35
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-04,836,0.0142,51.2
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-05,849,0.0156,52.45
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-06,843,-0.0071,39.98
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-07,880,0.0439,68.89
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-08,899,0.0216,57.59
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-09,890,-0.01,40.21
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-10,906,0.018,55.92
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-11,929,0.0254,60.78
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2023-12,966,0.0398,69.95
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2024-01,983,0.0176,58.63
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2024-02,977,-0.0061,45.63
+Tamil Nadu,Chennai,IT-ITeS,Junior Software Developer,2512.0101,2024-03,980,0.0031,50.7
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-04,289,0.0083,27.18
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-05,292,0.0104,28.43
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-06,302,0.0342,41.64
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-07,311,0.0298,39.61
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-08,319,0.0257,37.7
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-09,328,0.0282,39.4
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-10,327,-0.003,22.54
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-11,327,0.0,24.16
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2023-12,334,0.0214,35.96
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2024-01,341,0.021,36.01
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2024-02,349,0.0235,37.66
+Tamil Nadu,Chennai,Healthcare,Medical Laboratory Technician,3212.01,2024-03,360,0.0315,42.39
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-04,424,0.01,33.24
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-05,416,-0.0189,17.36
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-06,422,0.0144,35.54
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-07,416,-0.0142,19.89
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-08,417,0.0024,28.88
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-09,417,0.0,27.58
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-10,431,0.0336,46.23
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-11,443,0.0278,43.56
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2023-12,453,0.0226,41.14
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2024-01,462,0.0199,40.03
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2024-02,475,0.0281,44.94
+Tamil Nadu,Coimbatore,Automotive,Cnc Operator,7223.0101,2024-03,480,0.0105,35.64
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-04,225,0.0117,26.58
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-05,231,0.0267,34.89
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-06,234,0.013,27.62
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-07,231,-0.0128,13.6
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-08,232,0.0043,22.85
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-09,239,0.0302,37.08
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-10,235,-0.0167,11.65
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-11,231,-0.017,11.33
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-12,235,0.0173,29.98
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-01,235,0.0,20.65
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-02,238,0.0128,27.67
+Tamil Nadu,Coimbatore,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-03,240,0.0084,25.37
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-04,211,0.005,22.43
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-05,210,-0.0047,17.16
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-06,211,0.0048,22.32
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-07,218,0.0332,37.9
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-08,222,0.0183,30.02
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-09,225,0.0135,27.55
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-10,227,0.0089,25.14
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-11,229,0.0088,25.17
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2023-12,224,-0.0218,8.48
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2024-01,220,-0.0179,10.43
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2024-02,223,0.0136,27.52
+Tamil Nadu,Madurai,Healthcare,General Duty Assistant,5321.01,2024-03,220,-0.0135,12.8
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-04,472,0.0108,35.5
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-05,467,-0.0106,23.77
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-06,463,-0.0086,24.7
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-07,465,0.0043,31.73
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-08,475,0.0215,41.38
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-09,490,0.0316,47.4
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-10,509,0.0388,52.01
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-11,500,-0.0177,21.2
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2023-12,493,-0.014,22.93
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2024-01,497,0.0081,35.0
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2024-02,496,-0.002,29.52
+Gujarat,Ahmedabad,Automotive,Cnc Operator,7223.0101,2024-03,510,0.0282,46.33
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-04,607,0.0133,41.99
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-05,606,-0.0016,33.92
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-06,611,0.0083,39.45
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-07,623,0.0196,46.0
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-08,633,0.0161,44.49
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-09,650,0.0269,50.96
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-10,676,0.04,59.01
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-11,676,0.0,37.45
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2023-12,691,0.0222,49.99
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2024-01,709,0.026,52.72
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2024-02,721,0.0169,48.28
+Gujarat,Ahmedabad,IT-ITeS,Junior Software Developer,2512.0101,2024-03,720,-0.0014,38.37
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-04,196,0.0058,22.29
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-05,197,0.0051,21.95
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-06,193,-0.0203,8.11
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-07,194,0.0052,21.89
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-08,197,0.0155,27.56
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-09,202,0.0254,33.09
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-10,198,-0.0198,8.57
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-11,194,-0.0202,8.2
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2023-12,191,-0.0155,10.62
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2024-01,187,-0.0209,7.56
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2024-02,191,0.0214,30.51
+Gujarat,Ahmedabad,Healthcare,Emergency Medical Technician,3258.01,2024-03,190,-0.0052,16.13
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-04,287,0.015,30.72
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-05,297,0.0348,41.77
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-06,302,0.0168,32.26
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-07,309,0.0232,35.98
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-08,311,0.0065,27.05
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-09,307,-0.0129,16.44
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-10,314,0.0228,35.95
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-11,321,0.0223,35.95
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2023-12,324,0.0093,29.05
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-01,328,0.0123,30.82
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-02,326,-0.0061,20.83
+Gujarat,Surat,Electronics & Hardware,Solar Panel Installation Technician,7421.01,2024-03,330,0.0123,30.9
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-04,260,0.005,24.3
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-05,261,0.0038,23.69
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-06,265,0.0153,30.04
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-07,265,0.0,21.79
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-08,268,0.0113,28.0
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-09,276,0.0299,38.33
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-10,279,0.0109,28.2
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-11,272,-0.0251,8.53
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2023-12,276,0.0147,30.14
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2024-01,270,-0.0217,10.29
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2024-02,266,-0.0148,13.85
+Gujarat,Surat,Construction,Assistant Electrician,7411.01,2024-03,270,0.015,30.07
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-04,298,0.0067,26.66
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-05,303,0.0168,32.3
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-06,298,-0.0165,14.16
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-07,291,-0.0235,10.12
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-08,286,-0.0172,13.32
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-09,281,-0.0175,12.97
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-10,278,-0.0107,16.52
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-11,287,0.0324,40.1
+Gujarat,Vadodara,Automotive,Welder,7212.01,2023-12,297,0.0348,41.77
+Gujarat,Vadodara,Automotive,Welder,7212.01,2024-01,297,0.0,23.01
+Gujarat,Vadodara,Automotive,Welder,7212.01,2024-02,307,0.0337,41.56
+Gujarat,Vadodara,Automotive,Welder,7212.01,2024-03,310,0.0098,28.79
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-04,383,0.0092,31.25
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-05,392,0.0235,39.3
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-06,404,0.0306,43.58
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-07,411,0.0173,36.68
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-08,420,0.0219,39.5
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-09,414,-0.0143,19.76
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-10,412,-0.0048,24.81
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-11,424,0.0291,43.54
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2023-12,416,-0.0189,17.36
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2024-01,428,0.0288,43.53
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2024-02,427,-0.0023,26.72
+Uttar Pradesh,Lucknow,Healthcare,General Duty Assistant,5321.01,2024-03,420,-0.0164,18.86
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-04,139,0.0017,17.91
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-05,143,0.0288,32.67
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-06,142,-0.007,13.33
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-07,145,0.0211,28.6
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-08,144,-0.0069,13.46
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-09,143,-0.0069,13.43
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-10,147,0.028,32.39
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-11,150,0.0204,28.41
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2023-12,152,0.0133,24.66
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2024-01,149,-0.0197,6.75
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2024-02,147,-0.0134,10.07
+Uttar Pradesh,Lucknow,IT-ITeS,Data Entry Operator,4132.01,2024-03,150,0.0204,28.41
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-04,854,0.0167,53.23
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-05,863,0.0105,50.23
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-06,898,0.0406,67.79
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-07,903,0.0056,49.12
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-08,936,0.0365,67.03
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-09,952,0.0171,57.18
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-10,991,0.041,71.55
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-11,984,-0.0071,45.36
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2023-12,1015,0.0315,67.35
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2024-01,1047,0.0315,68.56
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2024-02,1060,0.0124,58.76
+Uttar Pradesh,Gautam Buddha Nagar,IT-ITeS,Junior Software Developer,2512.0101,2024-03,1100,0.0377,73.93
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-04,341,0.01,30.08
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-05,341,0.0,24.69
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-06,340,-0.0029,23.09
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-07,342,0.0059,27.91
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-08,348,0.0175,34.39
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-09,353,0.0144,32.91
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-10,366,0.0368,45.48
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-11,380,0.0383,46.82
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2023-12,380,0.0,26.17
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2024-01,374,-0.0158,17.43
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2024-02,387,0.0348,45.2
+Uttar Pradesh,Gautam Buddha Nagar,Electronics & Hardware,Field Technician Computing,7422.01,2024-03,380,-0.0181,16.42
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-04,244,0.0033,22.77
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-05,243,-0.0041,18.75
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-06,249,0.0247,34.5
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-07,249,0.0,21.18
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-08,251,0.008,25.57
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-09,245,-0.0239,8.15
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-10,246,0.0041,23.28
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-11,241,-0.0203,9.94
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2023-12,246,0.0207,32.23
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2024-01,251,0.0203,32.2
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2024-02,256,0.0199,32.18
+Uttar Pradesh,Kanpur Nagar,Construction,Assistant Electrician,7411.01,2024-03,260,0.0156,30.01
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-04,247,0.0042,23.37
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-05,242,-0.0202,10.03
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-06,246,0.0165,29.96
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-07,252,0.0244,34.45
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-08,247,-0.0198,10.43
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-09,251,0.0162,29.99
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-10,246,-0.0199,10.34
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-11,241,-0.0203,9.94
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2023-12,244,0.0124,27.68
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2024-01,249,0.0205,32.24
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2024-02,245,-0.0161,12.35
+Uttar Pradesh,Kanpur Nagar,Automotive,Welder,7212.01,2024-03,240,-0.0204,9.84

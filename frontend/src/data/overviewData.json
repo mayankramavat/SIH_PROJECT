@@ -1,0 +1,60 @@
+{
+  "summaryCards": {
+    "totalJobOpenings": {
+      "value": 142580,
+      "label": "Total Job Openings",
+      "trend": "+12.4%",
+      "trendPeriod": "vs last year",
+      "subtext": "Active registered industry vacancies"
+    },
+    "topDemandedSector": {
+      "value": "IT & Software Services",
+      "label": "Top Demanded Sector",
+      "metric": "38,420 Vacancies",
+      "share": "26.9% of total demand",
+      "subtext": "Fastest growing hiring corridor"
+    },
+    "topSkillInDemand": {
+      "value": "Cloud Computing & AI",
+      "label": "Top Skill in Demand",
+      "metric": "19,250 Postings",
+      "growth": "+28.5% YoY",
+      "subtext": "Critical enterprise deficit"
+    },
+    "skillGapPercentage": {
+      "value": "24.8%",
+      "label": "National Skill Gap %",
+      "status": "Net Shortage",
+      "deficitCount": "35,360 Candidates",
+      "subtext": "Demand exceeds institutional output"
+    }
+  },
+  "demandTrendLast12Months": [
+    { "month": "Apr 2023", "demand": 98400, "supply": 84200 },
+    { "month": "May 2023", "demand": 101200, "supply": 85100 },
+    { "month": "Jun 2023", "demand": 104800, "supply": 86300 },
+    { "month": "Jul 2023", "demand": 109500, "supply": 88000 },
+    { "month": "Aug 2023", "demand": 114200, "supply": 89500 },
+    { "month": "Sep 2023", "demand": 118900, "supply": 91200 },
+    { "month": "Oct 2023", "demand": 123400, "supply": 92800 },
+    { "month": "Nov 2023", "demand": 127100, "supply": 94100 },
+    { "month": "Dec 2023", "demand": 131500, "supply": 95600 },
+    { "month": "Jan 2024", "demand": 135800, "supply": 97200 },
+    { "month": "Feb 2024", "demand": 139200, "supply": 98900 },
+    { "month": "Mar 2024", "demand": 142580, "supply": 107220 }
+  ],
+  "topSectorsByDemand": [
+    { "sector": "IT & Software Services", "demand": 38420, "growth": "+18.2%" },
+    { "sector": "Manufacturing & Auto", "demand": 31200, "growth": "+9.8%" },
+    { "sector": "Healthcare & Lifesciences", "demand": 26850, "growth": "+15.4%" },
+    { "sector": "Retail & E-commerce", "demand": 24110, "growth": "+11.1%" },
+    { "sector": "Agriculture & Allied", "demand": 22000, "growth": "+5.6%" }
+  ],
+  "nationalSnapshot": {
+    "reportingPeriod": "FY 2023-24 (Q4)",
+    "statesMonitored": 28,
+    "districtsCovered": 766,
+    "vocationalTradesMapped": 142,
+    "sourceInstitutions": "NCS, ITI Portal, PMKVY, NCVET"
+  }
+}

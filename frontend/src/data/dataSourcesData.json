@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ncs",
+    "name": "National Career Service",
+    "acronym": "NCS",
+    "ministry": "Ministry of Labour & Employment (MoLE)",
+    "badge": "Real-Time Job Postings",
+    "url": "https://www.ncs.gov.in",
+    "description": "India's premier digital employment exchange platform connecting active job seekers, verified employers, training providers, and career centers.",
+    "dataProvided": "Real-time industry vacancies, job postings by state & district, active applicant demographics, placement records, and employer demand volumes.",
+    "updateFrequency": "Daily / Continuous Sync",
+    "dataVolume": "3.8+ Crore Job Seekers | 35+ Lakh Active Employers"
+  },
+  {
+    "id": "plfs",
+    "name": "Periodic Labour Force Survey",
+    "acronym": "PLFS",
+    "ministry": "Ministry of Statistics & Programme Implementation (MoSPI)",
+    "badge": "Macro Labour Survey",
+    "url": "https://mospi.gov.in",
+    "description": "Authoritative nationwide sample survey estimating labour force participation, unemployment rates, and formal vs informal employment characteristics.",
+    "dataProvided": "Labour Force Participation Rate (LFPR), Worker Population Ratio (WPR), Unemployment Rate (UR), and employment distribution across NIC industrial codes.",
+    "updateFrequency": "Quarterly (Urban) & Annual (Rural + Urban)",
+    "dataVolume": "1.01+ Lakh Sample Households surveyed per annum"
+  },
+  {
+    "id": "eshram",
+    "name": "e-Shram National Database",
+    "acronym": "e-Shram",
+    "ministry": "Ministry of Labour & Employment (MoLE)",
+    "badge": "Unorganized Workforce",
+    "url": "https://eshram.gov.in",
+    "description": "Comprehensive centralized registry of India's unorganized sector workers, gig workers, platform workers, and migrant agricultural labourers.",
+    "dataProvided": "Primary and secondary occupation classifications, self-declared vocational skills, migration flow corridors, age demographics, and social security coverage.",
+    "updateFrequency": "Real-time Citizen Registrations",
+    "dataVolume": "30+ Crore Registered Unorganized Workers"
+  },
+  {
+    "id": "sidh",
+    "name": "Skill India Digital Hub",
+    "acronym": "SIDH",
+    "ministry": "Ministry of Skill Development & Entrepreneurship (MSDE)",
+    "badge": "Trained Workforce Supply",
+    "url": "https://www.skillindiadigital.gov.in",
+    "description": "Next-generation digital public infrastructure unifying skilling programs, PMKVY certifications, ITI passouts, and apprenticeship schemes.",
+    "dataProvided": "Institutional certified workforce supply, active skilling enrollment numbers, PMKVY and apprenticeship completion rates, and candidate skill transcripts.",
+    "updateFrequency": "Real-Time API Integration",
+    "dataVolume": "1.5+ Crore Registered Learners & Certified Candidates"
+  },
+  {
+    "id": "nco",
+    "name": "National Classification of Occupations 2015",
+    "acronym": "NCO 2015",
+    "ministry": "Directorate General of Employment (DGE)",
+    "badge": "Occupational Taxonomy",
+    "url": "https://dge.gov.in",
+    "description": "Standardized Indian occupational classification framework aligned with the International Standard Classification of Occupations (ISCO-08).",
+    "dataProvided": "Standard 4-digit and 8-digit NCO codes, standardized occupation titles, task descriptions, qualification minimums, and inter-trade mappings.",
+    "updateFrequency": "Periodic Revision",
+    "dataVolume": "3,000+ Standardized Indian Occupations Defined"
+  },
+  {
+    "id": "ncvet",
+    "name": "National Council for Vocational Education and Training",
+    "acronym": "NCVET",
+    "ministry": "Ministry of Skill Development & Entrepreneurship (MSDE)",
+    "badge": "Qualification Framework",
+    "url": "https://ncvet.gov.in",
+    "description": "Apex vocational education regulator establishing standards, National Occupational Standards (NOS), and NSQF qualification compliance.",
+    "dataProvided": "National Skill Qualification Framework (NSQF Levels 1-10), approved Qualification Packs (QPs), National Occupational Standards, and accreditor records.",
+    "updateFrequency": "Monthly Gazette Notifications",
+    "dataVolume": "4,500+ Approved Qualification Packs & Courses"
+  },
+  {
+    "id": "msde",
+    "name": "Ministry of Skill Development & Entrepreneurship",
+    "acronym": "MSDE",
+    "ministry": "Government of India",
+    "badge": "Apex Policy & Funding",
+    "url": "https://msde.gov.in",
+    "description": "Nodal Union Ministry coordinating all skill development efforts across government, NSDC, DGT, Sector Skill Councils, and international mobility pacts.",
+    "dataProvided": "National skilling policies, Sector Skill Council (SSC) allocations, ITI modernisation funds, Apprenticeship Act implementations, and state grants.",
+    "updateFrequency": "Ongoing Policy Directives & Annual Reports",
+    "dataVolume": "36 Sector Skill Councils & 14,000+ ITIs Overseen"
+  },
+  {
+    "id": "datagov",
+    "name": "Open Government Data Platform",
+    "acronym": "data.gov.in",
+    "ministry": "National Informatics Centre (NIC) / MeitY",
+    "badge": "Open Government Datasets",
+    "url": "https://data.gov.in",
+    "description": "India's central open data portal publishing machine-readable datasets across census, industry, education, trade, and economic indicators.",
+    "dataProvided": "District-level census workforce indicators, economic census data, state industrial employment aggregates, and open government API endpoints.",
+    "updateFrequency": "Daily / Weekly Department Uploads",
+    "dataVolume": "600,000+ Public Datasets & 12,000+ Open APIs"
+  }
+]

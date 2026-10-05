@@ -1,0 +1,142 @@
+[
+  {
+    "ncoCode": "2512.0101",
+    "occupation": "Software Developer & Cloud Engineer",
+    "sector": "IT & Software Services",
+    "skills": ["Python", "Cloud Architecture", "Docker", "Kubernetes", "REST APIs"],
+    "nsqfLevel": "Level 6",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹6.5 - 12.0 LPA",
+    "description": "Designs, develops, tests, and deploys scalable cloud microservices and enterprise software solutions."
+  },
+  {
+    "ncoCode": "2511.0201",
+    "occupation": "Data Analyst & Business Intelligence Specialist",
+    "sector": "IT & Software Services",
+    "skills": ["SQL", "PowerBI", "Python", "Data Modeling", "Statistical Analysis"],
+    "nsqfLevel": "Level 5",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹4.8 - 9.0 LPA",
+    "description": "Translates complex datasets into actionable labour and operational insights for strategic decision making."
+  },
+  {
+    "ncoCode": "2529.0102",
+    "occupation": "Cybersecurity & Network Defense Specialist",
+    "sector": "IT & Software Services",
+    "skills": ["Network Security", "VAPT", "SIEM Tools", "Firewall Config", "Ethical Hacking"],
+    "nsqfLevel": "Level 6",
+    "demandStatus": "Very High Demand",
+    "medianSalary": "₹7.0 - 14.5 LPA",
+    "description": "Protects industrial IT/OT architectures, conducts vulnerability assessments, and enforces cybersecurity standards."
+  },
+  {
+    "ncoCode": "7223.0101",
+    "occupation": "CNC Machine Operator & Programmer",
+    "sector": "Manufacturing & Auto",
+    "skills": ["G-Code/M-Code", "Precision Lathe", "Blueprint Reading", "Tooling Setup", "Quality Inspection"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "Moderate Demand",
+    "medianSalary": "₹2.8 - 4.8 LPA",
+    "description": "Operates and programs automated computer numerical control machines to fabricate tight-tolerance auto components."
+  },
+  {
+    "ncoCode": "7231.0203",
+    "occupation": "Electric Vehicle (EV) Powertrain Technician",
+    "sector": "Manufacturing & Auto",
+    "skills": ["High-Voltage Battery Diagnostics", "BMS Calibration", "Electric Motor Rewinding", "Wiring Harness"],
+    "nsqfLevel": "Level 5",
+    "demandStatus": "Surging Demand",
+    "medianSalary": "₹3.6 - 6.2 LPA",
+    "description": "Performs diagnostics, assembly, and maintenance on electric vehicle traction motors and battery management systems."
+  },
+  {
+    "ncoCode": "7212.0101",
+    "occupation": "Robotic Welding & Fabrication Technician",
+    "sector": "Manufacturing & Auto",
+    "skills": ["Robotic Arm Programming", "TIG/MIG Welding", "Fixture Alignment", "ISO Safety Standards"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹3.2 - 5.5 LPA",
+    "description": "Programs and monitors automated industrial robotic welding cells in manufacturing plants."
+  },
+  {
+    "ncoCode": "2221.0101",
+    "occupation": "General Duty Nursing Assistant & Caregiver",
+    "sector": "Healthcare & Lifesciences",
+    "skills": ["Patient Vitals Monitoring", "Basic Life Support (BLS)", "Infection Control", "Medical Record Keeping"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "Critical Shortage",
+    "medianSalary": "₹2.4 - 4.2 LPA",
+    "description": "Assists registered healthcare staff with direct patient care, bedside hygiene, and post-operative monitoring."
+  },
+  {
+    "ncoCode": "3212.0201",
+    "occupation": "Medical Laboratory Diagnostic Technician",
+    "sector": "Healthcare & Lifesciences",
+    "skills": ["Hematology", "Biochemical Assay", "Sample Preparation", "Automated Analyzer Op", "Pathology Reporting"],
+    "nsqfLevel": "Level 5",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹3.0 - 5.2 LPA",
+    "description": "Conducts pathological and microbiological diagnostic testing on clinical biological specimens."
+  },
+  {
+    "ncoCode": "5223.0101",
+    "occupation": "Retail Sales Associate & Store Operations",
+    "sector": "Retail & E-commerce",
+    "skills": ["POS Billing Software", "Inventory Merchandising", "Customer Relationship Management", "Stock Auditing"],
+    "nsqfLevel": "Level 3",
+    "demandStatus": "Steady Demand",
+    "medianSalary": "₹2.0 - 3.4 LPA",
+    "description": "Handles daily showroom floor customer inquiries, point-of-sale invoicing, and visual display merchandising."
+  },
+  {
+    "ncoCode": "4321.0101",
+    "occupation": "Supply Chain & E-commerce Fulfillment Coordinator",
+    "sector": "Retail & E-commerce",
+    "skills": ["WMS (Warehouse Management)", "Barcode/RFID Scanning", "Logistics Routing", "Order Pick & Pack"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹2.6 - 4.5 LPA",
+    "description": "Coordinates warehouse inbound-outbound logistics, automated parcel sorting, and hub dispatch timelines."
+  },
+  {
+    "ncoCode": "6111.0201",
+    "occupation": "Precision Farming & Drone Agri-Operator",
+    "sector": "Agriculture & Allied",
+    "skills": ["Agricultural Drone Piloting", "Soil Sensor Analytics", "Micro-Irrigation Control", "Crop Health Scouting"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹2.8 - 4.8 LPA",
+    "description": "Deploys remote-sensing drones for fertilizer spraying, multispectral crop assessment, and precision pesticide application."
+  },
+  {
+    "ncoCode": "6121.0101",
+    "occupation": "Dairy Farm Operations & Processing Supervisor",
+    "sector": "Agriculture & Allied",
+    "skills": ["Cold Chain Logistics", "Automated Milking Systems", "Livestock Health Records", "Pasteurization Standards"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "Moderate Demand",
+    "medianSalary": "₹2.4 - 3.8 LPA",
+    "description": "Supervises herd nutrition, automated milking parlors, and raw milk bulk chiller collection centers."
+  },
+  {
+    "ncoCode": "7411.0302",
+    "occupation": "Solar Rooftop Installation & Maintenance Technician",
+    "sector": "Renewable Energy",
+    "skills": ["PV Module Mounting", "Inverter Commissioning", "Earthing & Lightning Protection", "Net Metering"],
+    "nsqfLevel": "Level 4",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹2.8 - 5.0 LPA",
+    "description": "Installs and tests distributed solar photovoltaic arrays, string inverters, and battery storage banks."
+  },
+  {
+    "ncoCode": "7421.0401",
+    "occupation": "Industrial Automation & PLC Technician",
+    "sector": "Manufacturing & Auto",
+    "skills": ["PLC Ladder Logic", "SCADA Integration", "Sensors & Actuators", "Pneumatic Circuits"],
+    "nsqfLevel": "Level 5",
+    "demandStatus": "High Demand",
+    "medianSalary": "₹4.0 - 7.5 LPA",
+    "description": "Troubleshoots programmable logic controllers, industrial sensors, and robotic conveyance lines."
+  }
+]

@@ -1,0 +1,18 @@
+state,district,state_code,district_code
+Maharashtra,Pune,MH,MH-PUN
+Maharashtra,Mumbai Suburban,MH,MH-MUM
+Maharashtra,Nagpur,MH,MH-NAG
+Maharashtra,Nashik,MH,MH-NSK
+Maharashtra,Aurangabad,MH,MH-AUR
+Karnataka,Bengaluru Urban,KA,KA-BLR
+Karnataka,Mysuru,KA,KA-MYS
+Karnataka,Dharwad,KA,KA-DHW
+Tamil Nadu,Chennai,TN,TN-CHN
+Tamil Nadu,Coimbatore,TN,TN-CBE
+Tamil Nadu,Madurai,TN,TN-MDU
+Gujarat,Ahmedabad,GJ,GJ-AHM
+Gujarat,Surat,GJ,GJ-SUR
+Gujarat,Vadodara,GJ,GJ-VAD
+Uttar Pradesh,Lucknow,UP,UP-LKO
+Uttar Pradesh,Gautam Buddha Nagar,UP,UP-GBN
+Uttar Pradesh,Kanpur Nagar,UP,UP-KNP

@@ -1,0 +1,9 @@
+candidate_id,state,district,trade,nco_code,enrollment_year,status
+CAND_1001,Maharashtra,Pune,Junior Software Developer,2512.0101,2024,Certified
+CAND_1002,Maharashtra,Pune,Automotive Service Technician,7231.0101,2024,Certified
+CAND_1003,Maharashtra,Mumbai Suburban,Web Developer,2513.0101,2024,Certified
+CAND_1004,Maharashtra,Nagpur,Solar Panel Installation Technician,7421.0100,2024,Enrolled
+CAND_1005,Karnataka,Bengaluru Urban,Junior Software Developer,2512.0101,2024,Placed
+CAND_1006,Tamil Nadu,Chennai,Automotive Service Technician,7231.0101,2024,Placed
+CAND_1007,Gujarat,Ahmedabad,CNC Operator,7223.0101,2024,Certified
+CAND_1008,Uttar Pradesh,Lucknow,General Duty Assistant,5321.0100,2024,Enrolled
